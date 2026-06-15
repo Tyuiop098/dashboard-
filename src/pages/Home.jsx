@@ -11,9 +11,9 @@ const FEATURES = [
 ]
 
 const STATS = [
-  { value: '128+', label: 'Servers' },
-  { value: '48K+', label: 'Users' },
-  { value: '2.8K', label: 'Commands/day' },
+  { value: '3+', label: 'Servers' },
+  { value: '10+', label: 'Users' },
+  { value: '36+', label: 'Commands/day' },
   { value: '99.9%', label: 'Uptime' },
 ]
 
